@@ -6,7 +6,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 
 st.title('streamlit入門')
-
+f
 st.write('Display Image')
 
 latest_iteration = st.empty()
